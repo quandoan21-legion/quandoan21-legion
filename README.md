@@ -10,6 +10,6 @@
 ### Install My NeoVim Configuration
 
 ```sh
-git clone https://github.com/quandoan21-legion/QuanLegionDoanVimRC.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/quandoan21-legion/NVimConfig.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
